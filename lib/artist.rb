@@ -1,7 +1,3 @@
-class Song
-  attr_accessor :title, :artist, :name
+class Artist
+  attr_accessor :name
 end
-
-artist = Artist.new
-artist.name = "Beyonce"
-puts artist.name
