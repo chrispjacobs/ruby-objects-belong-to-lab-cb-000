@@ -3,5 +3,5 @@ class Song
 end
 
 bob = Song.new
-bob.title = "Bob"
-puts bob.title
+bob.name = "Bob"
+puts bob.name
